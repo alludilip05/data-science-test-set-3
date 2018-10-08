@@ -16,6 +16,11 @@
 
 8. To get the test into your jupyter notebook run the following commands into jupyter console
 
-```
-git clone repo_link
-```
+9. cd /work
+
+10. git clone repo_link
+
+11. You will get your repo_link 10 minutes before starting the test.
+
+12. create a new notebook with name griet_test under you repo directory.
+13. And save the griet_test notebook when you finished the test.
